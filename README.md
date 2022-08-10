@@ -1,9 +1,13 @@
 # SprintJava2
 
 Integrantes: Amanda Díaz -> https://github.com/Amyyinthesky/sprintjava2
-Nicolay López -> https://github.com/Liocan123/SprintJava.git
-Mauricio Seguel -> https://github.com/IronWesso/SprintJava
-Constanza Vivar -> https://github.com/Constanzavm/sprint-de-java
+
+Nicolay López -> https://github.com/Liocan123/Sprint_Spring
+
+Mauricio Seguel -> https://github.com/IronWesso/Sprint_Spring_OnWinter
+
+Constanza Vivar -> https://github.com/Constanzavm/Spring_Spingboot
+
 El programa de SprintJava es una solución técnológica que cubre los proceos de mejora de gestión, control, seguridad y disponibilidad de información para una empresa de asesorías en Prevención de Riesgos Laborales. Gracias a este código, se pueden administrar los procesos que se deben ejecutar en cada una de las empresas que son clientes de la compañía. Dentro del código existen 13 funciones:
 1.	Contacto
 2.	Crear capacitación
